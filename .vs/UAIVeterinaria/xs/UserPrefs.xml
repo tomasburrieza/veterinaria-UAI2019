@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{13DBA232-E4D8-46EC-81C1-D07F6744F2E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UAIVeterinaria/Controllers/RoomController.cs">
+    <Files>
+      <File FileName="UAIVeterinaria/Controllers/RoomController.cs" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UAIVeterinaria" expanded="True">
+            <Node name="UAIVeterinaria" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RoomController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UAIVeterinaria PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
